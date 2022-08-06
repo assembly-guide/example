@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+/src/Assembly/Debug
+/src/Assembly/x64
+/src/Assembly/Assembly_x64/*.user
+/src/Assembly/.vs
+/src/Assembly/Assembly_x64/x64
+/src/Assembly/Assembly_x86/Debug
